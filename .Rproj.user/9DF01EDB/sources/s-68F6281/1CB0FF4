@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588833862873.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2910206174",
+    "id" : "1CB0FF4",
+    "lastKnownWriteTime" : 1588833875,
+    "last_content_update" : 1588833899017,
+    "path" : "~/ETC5513Tut7PriyaRD/excersice-tut7-prd.Rmd",
+    "project_path" : "excersice-tut7-prd.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
